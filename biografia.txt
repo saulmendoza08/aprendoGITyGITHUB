@@ -2,5 +2,9 @@ soy saul un tipo fachero de jujuy que ahora vive en tucuman
 
 me siento muy tucumano
 
+<<<<<<< HEAD
 
 estoy en la rama 2-2
+=======
+estoy en la rama 22
+>>>>>>> rama22
